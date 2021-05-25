@@ -391,6 +391,7 @@ div#map {
     min-height: 360px;
 }
 
+
 /*--------------------------------------------Media Queries*/
 
 @media(min-width: 992px) {
@@ -407,4 +408,3 @@ div#map {
         max-width: 50%;
     }
 }
-© 2021 GitHub, Inc.
