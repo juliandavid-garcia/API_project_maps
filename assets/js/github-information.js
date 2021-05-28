@@ -1,9 +1,4 @@
-n Initial commit
-Latest commit 33d7319 on 8 Nov 2018
- History
- 0 contributors
-76 lines (68 sloc)  2.44 KB
-  
+
 function userInformationHTML(user) {
     return `
         <h2>${user.name}
